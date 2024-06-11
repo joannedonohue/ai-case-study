@@ -103,13 +103,13 @@ Stability AI has 300k users and researchers.
 * An Enterprise solution for companies to make stock images and fonts using the corporate style guide
 
 #### Why do you think that offering this product or service would benefit the company?
-Expanding to include 3D and text, competitions, training and a marketplace would increase user adoption, leading to more paid subscriptions.
+Expanding to include 3D and text, competitions, training and a marketplace would increase user adoption, leading to more paid subscriptions. These additions improve the "community" feel on Discord.
 
 #### What technologies would this additional product or service utilize?
-Multimodal Large Language Models (MLLMs) 
+Multimodal Large Language Models (MLLMs) and Photogrammetry are technologies used to generate 3D images and eventually videos.
 
 #### Why are these technologies appropriate for your solution?
-These new services would utilize Multimodal Large Language Models (MLLMs) to enhance the platform's capabilities and broaden its appeal.
+Expanding the offering to other forms of images and videos to create a one-stop shop would be a competitive advantage for MJ, however, the models would need to get smaller and faster to scale, as the computation is expensive and time consuming. With recent investments in nuclear energy from Silicon Valley, we can have a cheaper way to power data centers.
 
 -----------------------
 
