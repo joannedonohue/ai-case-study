@@ -114,11 +114,11 @@ Expanding the offering to other forms of images and videos to create a one-stop 
 -----------------------
 
 ## Sources:
-[StackShare.io](https://stackshare.io/midjourney)
-[Forbes - Top Generative AI Tools for Art & Design](https://www.forbes.com/sites/bernardmarr/2024/05/09/the-top-generative-ai-tools-for-art-and-design/?sh=26cf2a923353)
-[Gate2AI - Who owns Midjourney?](https://www.gate2ai.com/midjourney/who-owns-midjourney.html#:~:text=Concept%20Formation%3A,generating%20images%20from%20textual%20prompts
+- [StackShare.io](https://stackshare.io/midjourney)
+- [Forbes - Top Generative AI Tools for Art & Design](https://www.forbes.com/sites/bernardmarr/2024/05/09/the-top-generative-ai-tools-for-art-and-design/?sh=26cf2a923353)
+- [Gate2AI - Who owns Midjourney?](https://www.gate2ai.com/midjourney/who-owns-midjourney.html#:~:text=Concept%20Formation%3A,generating%20images%20from%20textual%20prompts
 )
-[Lawsuits AI Copywrite](https://www.theartnewspaper.com/2024/05/10/deviantart-midjourney-stable-diffusion-artificial-intelligence-image-generators)
-[Picogen](https://picogen.io/blog/impact-of-midjourney-ai)
-[Version 6 Roadmap](https://the-decoder.com/midjourneys-upcoming-version-6-promises-a-big-leap-in-quality/)
-[Medium Evolution of LLMs](https://medium.com/@simon_attard/the-evolution-of-llms-over-the-last-12-months-188a04edb3ac)
+- [Lawsuits AI Copywrite](https://www.theartnewspaper.com/2024/05/10/deviantart-midjourney-stable-diffusion-artificial-intelligence-image-generators)
+- [Picogen](https://picogen.io/blog/impact-of-midjourney-ai)
+- [Version 6 Roadmap](https://the-decoder.com/midjourneys-upcoming-version-6-promises-a-big-leap-in-quality/)
+- [Medium Evolution of LLMs](https://medium.com/@simon_attard/the-evolution-of-llms-over-the-last-12-months-188a04edb3ac)
